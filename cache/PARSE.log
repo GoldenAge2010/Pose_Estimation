@@ -1,0 +1,36 @@
+{Undefined function 'features' for input arguments of type 'double'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('initmodel', 'C:\Users\Cheng\Downloads\pose-release1.3-full\20121128-pose-release-ver1.3\code-full\learning\initmodel.m', 19)" style="font-weight:bold">initmodel</a> (<a href="matlab: opentoline('C:\Users\Cheng\Downloads\pose-release1.3-full\20121128-pose-release-ver1.3\code-full\learning\initmodel.m',19,0)">line 19</a>)
+nf = length(features(zeros([3 3 3]),1));
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('trainmodel', 'C:\Users\Cheng\Downloads\pose-release1.3-full\20121128-pose-release-ver1.3\code-full\learning\trainmodel.m', 13)" style="font-weight:bold">trainmodel</a> (<a href="matlab: opentoline('C:\Users\Cheng\Downloads\pose-release1.3-full\20121128-pose-release-ver1.3\code-full\learning\trainmodel.m',13,0)">line 13</a>)
+  model = initmodel(pos,sbin);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('PARSE_demo', 'C:\Users\Cheng\Downloads\pose-release1.3-full\20121128-pose-release-ver1.3\code-full\PARSE_demo.m', 23)" style="font-weight:bold">PARSE_demo</a> (<a href="matlab: opentoline('C:\Users\Cheng\Downloads\pose-release1.3-full\20121128-pose-release-ver1.3\code-full\PARSE_demo.m',23,0)">line 23</a>)
+model = trainmodel(name,pos,neg,K,pa,sbin);
+} 
+demo
+Building with 'MinGW64 Compiler (C++)'.
+MEX completed successfully.
+Building with 'MinGW64 Compiler (C++)'.
+MEX completed successfully.
+Building with 'MinGW64 Compiler (C++)'.
+MEX completed successfully.
+Building with 'MinGW64 Compiler (C++)'.
+MEX completed successfully.
+Building with 'MinGW64 Compiler (C++)'.
+MEX completed successfully.
+Building with 'MinGW64 Compiler (C++)'.
+MEX completed successfully.
+model template visualization
+press any key to continue
+model tree visualization
+press any key to continue
+detection took 11.8 seconds
+press any key to continue
+detection took 8.6 seconds
+press any key to continue
+detection took 7.2 seconds
+press any key to continue
+{Operation terminated by user during <a href="matlab:matlab.internal.language.introspective.errorDocCallback('demo', 'C:\Users\Cheng\Downloads\pose-release1.3-full\20121128-pose-release-ver1.3\code-basic\demo.m', 37)" style="font-weight:bold">demo</a> (<a href="matlab: opentoline('C:\Users\Cheng\Downloads\pose-release1.3-full\20121128-pose-release-ver1.3\code-basic\demo.m',37,0)">line 37</a>)
+} 
